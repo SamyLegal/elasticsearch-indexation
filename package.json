@@ -1,0 +1,15 @@
+{
+  "name": "elasticsearch-indexation",
+  "version": "1.0.0",
+  "description": "Projet permettant de tester la mise en oeuvre d'indexation de données liées dans Elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Samuel LE GAL",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "elasticsearch": "^13.3.1"
+  }
+}
